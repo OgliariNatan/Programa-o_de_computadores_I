@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445620105 source:c:\users\aluno\desktop\prog\aula_20151023_piramede\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

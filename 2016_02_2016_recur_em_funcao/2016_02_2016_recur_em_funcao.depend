@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1455296638 source:c:\users\aluno\desktop\prog\2016_02_2016_recur_em_funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457725327 source:c:\users\aluno\desktop\prog\testeauc\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<math.h>
+

@@ -1,0 +1,1 @@
+221 0.01 Lampada 219 0.10 Refrigerador 210 10.00 Forno 230 30.00 Chuveiro 221 0.98 Computador 229 0.11 Freezer 210 0.72 Notebook 210 8.00 motor

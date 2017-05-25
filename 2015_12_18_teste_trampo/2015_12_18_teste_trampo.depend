@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450462497 source:c:\users\aluno\desktop\prog\2015_12_18_teste_trampo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

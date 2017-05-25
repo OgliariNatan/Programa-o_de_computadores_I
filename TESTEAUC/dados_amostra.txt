@@ -1,0 +1,1 @@
+eiro 221 0.98 computador 229 0.11 freezer 210 0.72 notebook 210 8.00 motor 

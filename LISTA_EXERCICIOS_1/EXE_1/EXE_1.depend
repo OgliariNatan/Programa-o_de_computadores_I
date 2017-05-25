@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1447297028 source:c:\users\natan\documents\(engenhariaeletrônica)\prog\lista_exercicios_1\exe_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<math.h>
+

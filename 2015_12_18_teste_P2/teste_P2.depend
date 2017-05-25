@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1450487407 source:c:\users\natan\documents\(engenhariaeletrônica)\(fase_4)\prog\trabalho\teste_p2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<math.h>
+	<string.h>
+

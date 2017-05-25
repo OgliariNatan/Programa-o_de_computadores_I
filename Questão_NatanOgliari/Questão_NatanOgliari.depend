@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1457723174 source:c:\users\aluno\desktop\prog\questão_natanogliari\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<math.h>
+
